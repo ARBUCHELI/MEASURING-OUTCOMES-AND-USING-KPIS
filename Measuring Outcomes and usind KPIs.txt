@@ -1,0 +1,105 @@
+# MEASURING OUTCOMES AND USING KPIS
+-----------------------------------
+
+* Overview
+----------
+To achieve business goals, you need to boost performance and growth in critical areas. Identifying these areas requires instituting the most suitable performance measurement systems.
+
+In this course, you’ll learn how managing performance can be aided by identifying a performance problem using performance measurement systems. You'll also learn how to work with a key 
+performance indicator (KPI).
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Measuring Outcomes and Using KPIs
+-----------------------------------
+Implementing a performance measurement system can be beneficial to a company'soutcomes and help it achieve its goals. **** GAZPROM PROJECT **** IMPLEMENT A PERFORMANCE MEASUREMENT SYSTEM.
+
+Selecting the right key performance indicators can drive and direct a company's development, Fine-tuning results to boost performance and growth in critical areas.
+
+In this course, you'll learn about the advantages of key performance measurement. What makes for good key performance indicators? And considerations and steps for selecting KPIs.
+
+You'll also learn methods for defining the criteria for performance measures.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Gaining an Advantage through Performance Measurement
+------------------------------------------------------
+What you measure gets attention. **** GAZPROM PROJECT **** DEFINE WHAT WE ARE GOING TO MEASURE, FOR EXAMPLE THE ACCOMPLISHMENT OF TASKS.
+
+If sales volume is measuredand increases in sales are rewarded, the number of sales made typically goes up.
+
+By the same token, you can't manage what you don't measure. **** GAZPROM PROJECT **** IF WE DON'T MEASURE THE DEVELOPMENT SPEED WE CAN'T MANAGE IT.
+
+If sales volume declines you need to know why.
+
+Performance measurement helps an organization by providing quantifiable measurements that can be assessed and tracked over time and that relate directly to what drives the organization's 
+success.
+
+By measuring performance and setting targets,organizations can better achieve growth, improve their efficiency, and identify and troubleshoot problem areas in their performance.
+
+**** GAZPROM PROJECT **** WE NEED TO SET TARGETS, FOR EXAMPLE DEFINING STORY POINTS FOR CODING AND DESIGN TASKS DEPENDING ON THE COMPLEXITY OF THE TASK, FOR EXAMPLE 5 POINTS FOR A STYLING 
+A COMPONENT TASK AND DEFINE THE NUMBER OF STORY POINTS FOR A TWO WEEKS SPRINT. FOR EXAMPLE BETWEEN 15 AND 18 STORY POINTS PER SPRINT.
+
+Performance measurement tools can be applied on a small scale to a specific department or project or across the enterprise, and they can measure both financial and non-financial 
+performance.
+
+Performance measurement offers important advantages for organizations that apply it.
+
+* First, it enables you to examine triggers for changes in performance. **** GAZPROM PROJECT **** 
+	. FOR EXAMPLE THE TEAM STARTED TO PERFORM BETTER AFTER THE COMMUNICATION BETWEEN THE BUSINESS ANALYST (DMITRY), THE BACK-END DEVELOPER (VITALIY), AND THE MAIN STAKEHOLDER OF THE 
+	COMPANY (VALERIY MIKHAILOVICH) IMPROVED.
+
+	. THE TEAM PERFORMS BETTER WHEN THE COMMUNICATION IS BETTER.
+
+	. THE TEAM DOESN'T PERFORM WELL DUE TO THE LACK OF KNOWLEDGE OF THE TECHNOLOGIES OF SOME MEMBERS OF THE TEAM.
+
+When measures show a dip or spike for example, this alerts you to look for the causes.
+
+You can then take action to influence whatever is driving the change to either sustain the positive results or make any needed corrections.
+
+* Second, performance measurement puts you in a better position to manage performance proactively.
+
+It makes it possible to set clear targets, put resources in place to achieve them, and track and reward accomplishments.
+
+* Third, having performance measures allows for easy communication of top level strategic visions Instead of vague or intangible objectives,you can set clear goals stated in terms of and
+measured by using quantifiable values.
+
+* A fourth advantage is that performance measurement helps build a link between day-to-day operations and strategy.
+
+It makes it clear how individual and departmental performance fits within the performance of the organization as a whole.
+
+Before choosing performance measures for your part of the business, think about the link between those measures and organizational strategy.
+
+Measures should align with company strategies,giving direction about what managers and employees should focus on.
+
+Overall performance should then be regularly monitored to understand why it is or isn't reaching desired levels.
+
+If a sales department is heavily rewarded only for high sales volumes forexample, this could have negative effects in other areas.
+
+For instance, sales people might be tempted to make promises that are hard or expensive for other departments or they may focus exclusively on easy to move products or services to the 
+exclusion of higher margin, but difficult to sell options.
+
+Performance measures must also align with organizational structure.
+
+To drive success, the measurement process must help determine the division of resources and assignment of responsibilities.
+
+Highly centralized organizations have many interconnected departments or functional areas that rely on each other for mutual success.
+
+Decentralized organizations consist of units that work more independently, often with managers who are largely autonomous.
+
+Performance measures should be tailored to take this into account, so those measure complement the unit structure and apply to areas that a manager can control.
+
+Proper performance measurement is key to effective business performance. **** GAZPROM PROJECT **** REMEMBER THAT WE ARE SELLING A PRODUCT, THIS IS A BUSINESS, AND WE NEED TO MAKE EVERY DAY
+AS MUCH PRODUCTIVE AS POSSIBLE.
+
+It allows organizations to test the real impact of current practices and changes and use the results to support informed management decisions.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
