@@ -241,6 +241,116 @@ By taking all these factors into consideration, managers will be able to choose 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Selecting Key Performance Indicators
+--------------------------------------
+Key performance indicators play an indispensable role in measuring the success or failure of business activities. **** GAZPROM PROJECT **** !!!! THIS IS VERY IMPORTANT TO MENTION
+
+But selecting the KPIs that are best suited to measuring a specific aspect of an organization's performance isn't always easy.
+
+To build a solid foundation and to find out what you want and need to know, you need to follow some key steps.
+
+1) Step one is to carefully define your goals. To gain a firm understanding of your organization's goals, you may ask questions like, 
+
+	. what will enable us to increase our customer satisfaction scores?
+
+	. What will maximize my department's productivity? **** GAZPROM PROJECT **** !!!! THIS IS VERY IMPORTANT, WE NEED TO GET FEEBACK FROM ALL THE MEMBERS OF THE TEAM. I FOUND A TOOL
+	TO OVERCOME THE DIFFICULTIES CREATED BY THE LANGUAGE BARRIER.  LET'S DEFINE WHAT MEASURES ARE OTHER MEMBERS OF THE TEAM TAKING TO IMPROVE.
+	
+	. What will enable us to grow this segment of the market by more than 10%?
+
+One strategy is to map goals for each stage of the customer's interaction with your product or service that can provide an in-depth view of what your organization needs to achieve and how 
+your area can help achieve it. **** GAZPROM PROJECT **** THE FEEDBACK THAT WE ARE GOING TO GET AFTER SHOWING THE DEMO IS CRUCIAL TO UNDERSTAND THIS POINT.  WE MUST TO CLEARLY ANALYZE THE
+FEEDBACK AFTER EVERY ITERATION.
+
+2) Step two is to define the objectives. If we think of a goal as a description of a destination, then an objective is a measure of the progress needed to get to that destination.
+**** GAZPROM PROJE **** HOW CAN WE MEASURE THE PROGRESS IN OUR PROJECT? STORY POINTS.
+
+Objectives guide the organization to the extent that each employee does his or her part in achieving the overall goals.
+
+Clear objectives allow for monitoring of progress and correcting and adjusting efforts as necessary.
+
+Often, organizations get stuck assigning KPIs that measure minor or too many aspects of performance instead of coming at performance measurement with a broader, higher-level perspective.
+
+Consider the overarching vision of your company and its fundamental purpose.
+
+The process of defining a company's objectives uses the SMART acronym, assuring that they are 
+
+	. Specific, 
+	. Measurable, 
+	. Attainable, 
+	. Relevant, and
+	. Timely.
+
+Objectives should be as clear as possible, and contain precise numbers and units that are pertinent and directly related to the company's goals.
+
+3) The third step is to determine how to reach the company's objectives. **** GAZPROM PROJECT **** WE NEED TO ACCELERATE THE DEVELOPMENT PROCESS.
+
+Before choosing a strategy, decision makers should take time to examine the organization's or functional area's current performance as well as its strategic goals and current initiatives.
+
+This process will help to uncover gaps and weaknesses, as well as what needs to be done in order to remain or get back on track to achieve the desired results.
+
+Management should also set milestones to keep track of and review progress at various predetermined points to assess whether the organization is meeting its objectives and whether there 
+are causes for concern.
+
+4) With goals, objectives, and how to achieve them taken into consideration, step four is to choose appropriate KPIs that will directly measure your progress.
+
+For example, if the goal is to increase online sales, KPIs might include daily sales, website traffic conversion rate, and overall site traffic. They might further include shopping cart 
+abandonment rate, average order size, or repeat purchase rates.
+
+Whether you're selecting micro or macro KPIs, it can help to ask questions like these.
+
+	**** GAZPROM PROJECT ****
+
+	DEFINE THE KPIs FOR OUR PROJECT BASED ON ANSWERING THE FOLLOWING QUESTION:
+
+	. What is your desired outcome?
+	. Why does this outcome matter to the business?
+	. How are you going to measure progress?
+	. How can you influence the outcome?
+	. Who's responsible for the business outcome?
+	. How will you know you've achieved this outcome?
+	. And how often will you review progress against the desired outcome?
+
+Skipping these vital steps can be costly in the long run, clouding decisions related to achieving the ideal state for the business.
+
+Together, all four steps contribute to creating a strong base of indicators that will provide insight into both the currentand future states in order to drive the business forward.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
