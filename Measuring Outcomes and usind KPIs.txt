@@ -133,6 +133,7 @@ In a customer call center, examples of KPIs might include
 . Adherence to delivery schedules (FOR THAT REASON WE CAN'T OVERLOOK THE TIME ALLOCATED FOR EACH SPRINT)
 . Software quality
 . Software effectivity
+. Time for creating the Spike
 
 KPIs are not just vanity metrics. Vanity metrics are data that scratch the surface of your brand performance, but don't show the full picture.
 
@@ -170,7 +171,76 @@ Once an organization has robust KPIs in place, it will then be better equipped t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 
+* Choosing a Performance Measure
+--------------------------------
+. What do you want to know about your company or function? 
+
+. Are you interested in the ROI of a new sales initiative?
+
+. How efficient your production methods are?
+
+. What factors impact your delivery schedules? **** GAZPROM PROJECT **** (WE NEED TO CLEARLY DEFINE THIS IN THE NEXT MEETING, WE NEED TO GET FEEDBACK FROM ALL MEMBERS OF THE TEAM).
+
+
+To get the most out of performance measurement, you need to consider certain factors to choose the right key performance indicators, or KPIs.
+
+1) First, useful measures will focus on critical activities or key success factors. **** GAZPROM PROJECT **** (DEFINE CLEARLY WHAT ARE THE CRITICAL ACTIVITIES AND THE KEY SUCESS FACTORS).
+
+The key tasks or functions critical to achieving the organization's objectives and business goals.
+
+These are the essential processes, activities, and functions that an organization must do well to implement its strategy successfully and sustain competitive advantage.
+
+Incorrectly identifying the key success factors can result in managers ignoring or neglecting them in favor of non-essential or less important aspects of the business.
+
+Once key success factors have been established, the measures used to evaluate performance can be built around them.
+
+2) A second consideration is to promote goal congruence. That means considering the best interests of the organization as a whole. Achieving an improvement in one key measure shouldn't 
+lead to the benefit of one department at the expense of others. **** GAZPROM PROJECT ****
+
+It should benefit the organization overall.
+
+3) Third, performance measures should focus on what managers can control or influence. Managers can't be held accountable for factors they can't control.
+**** GAZPROM PROJECT **** (FOR EXAMPLE AT THE MOMENT I DON'T HAVE ANY INFORMATION ABOUT THE OTHER PROJECTS THE COMPANY IS CREATING FOR OTHER CLIENTS, BUT THE OTHER PROJECTS ARE AFFECTING
+THE GAZPROM PROJECT AND THIS INFLUENCE IS OUT OF MY CONTROL).
+
+
+The performance measures designated for any functional unit should be chosen only for the factors their performance directly influences.
+
+It doesn't make sense for shipping managers to track KPIs associated with marketing. Doing so won't impact their ability to affect company performance or success.
+
+Sales and marketing managers, however, can influence performance in these areas. And they should be the ones to use those associated KPIs.
+
+4) Ease of understanding is a fourth important consideration when selecting performance measures. Managers must know how decisions they make will effect the measurement of their unit's 
+performance.
+
+They can't make informed decisions based upon performance measures they don't understand.
+
+A good performance measure should be easy to explain. And if a measure is quantitative, it should be straightforward to calculate.
+
+But if the measure doesn't offer a clear guide on how the manager can improve performance, it serves little purpose.
+
+5) As a fifth consideration, when appropriate to the need, there should always be a balance focus on both the short and long run KPIs.
+*** GAZPROM PROJECT **** THIS IS VERY IMPORTANT BECAUSE WE HAD BEEN STRUGLIN' BETWEEN THE NEED TO DELIVER QUICKLY A FIRST DEMO, AND HOW THE IMPLEMENTATION OF THIS DEMOS COULD AFFECT THE
+FUTURE DEVELOPMENT OF THE FINAL QUALITY PRODUCT THAT WE WOULD LIKE TO CREATE.
+
+Future performance shouldn't be sacrificed for current performance and viceversa.
+
+Achieving this balance is an ongoing challenge faced by all organizations.
+
+Many other considerations may also come into play when selecting appropriate performance measures.
+
+. Feasibility, 
+. fairness, 
+. and the potential for unintended consequences should all be taken into consideration.
+
+For instance, is there the possibility that employees will take shortcuts in order to meet targets? **** GAZPROM PROJECT **** WE NEED TO BE VERY CAREFUL WITH THIS, BECASUE THE URGENCY FOR
+DELIVERING THE FIRST DEMO CAN MAKE US OVERLOOK VARIABLES, FACTORS, OR IMPORTANT ASPECTS OF THE CALCULATIONS THAT WILL MAKE US LOSE TIME IN THE FUTURE ****
+
+By taking all these factors into consideration, managers will be able to choose the appropriate KPIs. And achieve optimal performance for their business.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
