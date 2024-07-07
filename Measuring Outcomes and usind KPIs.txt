@@ -128,7 +128,7 @@ In a customer call center, examples of KPIs might include
 . the scores received on a customer satisfaction survey administered after a call,
 . the time it takes to fulfill an order or the percentage of incoming calls answered within 30 seconds.
 
-**** GAZPROMO PROJECT ****
+**** GAZPROM PROJECT ****
 
 . Adherence to delivery schedules (FOR THAT REASON WE CAN'T OVERLOOK THE TIME ALLOCATED FOR EACH SPRINT)
 . Software quality
@@ -162,7 +162,7 @@ It must communicate, succinct, clear and relevant information which is likely to
 
 Choosing pertinent, robust KPIs requires an organization to fully understand its objectives, how it plans to achieve them, and who can act on this information.
 
-Getting to this point is a process that should incorporate feedback fromvindividuals in key roles across the organization,vas well as from managers and leaders.
+Getting to this point is a process that should incorporate feedback from individuals in key roles across the organization, as well as from managers and leaders.
 
 A meaningful set of KPIs encapsulates what's truly important about you company's performance, and should be linked to the economic engine of the organization and to its business model.
 
