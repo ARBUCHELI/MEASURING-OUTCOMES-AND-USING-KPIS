@@ -98,6 +98,114 @@ It allows organizations to test the real impact of current practices and changes
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Understanding Key Performance Indicators
+------------------------------------------
+A key performance indicator, or KPI, is a measurable value that demonstrates how effectively a company is achieving its key business objectives.
+**** GAZPROM PROJECT **** ARE WE HELPING THE COMAPNY TO ACHIEVE ITS BUSINESS OBJECTIVES?
+
+KPIs form the basis of an organization's performance measurement system. They're one of the most powerful tools for driving growth and spotting both problem areas and potential  
+opportunities for improvement.
+
+Organizations use KPIs at multiple levels to evaluate their success in reaching strategic targets in any functional area, sales, manufacturing, marketing, and so on.
+
+Organizations tailor their measurement systems by selecting KPIs relevant to their industries and to the functional areas being measured.
+
+In a manufacturing company, for example, KPIs associated with production might include:
+
+. overall equipment effectiveness,
+. floor space utilization, 
+. product quality, and 
+. adherence to delivery schedules.
+
+The KPIs relevant to the finance function of the company, of course, would be very different,including 
+
+. profitability measurements, like gross profit margin,
+. operating margin, ROI, and 
+. return on capital employed.
+
+In a customer call center, examples of KPIs might include
+
+. the scores received on a customer satisfaction survey administered after a call,
+. the time it takes to fulfill an order or the percentage of incoming calls answered within 30 seconds.
+
+**** GAZPROMO PROJECT ****
+
+. Adherence to delivery schedules (FOR THAT REASON WE CAN'T OVERLOOK THE TIME ALLOCATED FOR EACH SPRINT)
+. Software quality
+. Software effectivity
+
+KPIs are not just vanity metrics. Vanity metrics are data that scratch the surface of your brand performance, but don't show the full picture.
+
+They are metrics like generalized site traffic, social followers, likes, and clicks.
+
+For most organizations, these aren't true KPIs.
+
+Though these numbers might be of use to, say, digital retailers,they don't get to the heart of what drives the economic engine of the organization, such as ROI, customer retention, or 
+likelihood of future purchases.
+
+KPIs are not simple metrics, either.
+
+Simple metrics do have some value, because they show what your customers are doing but they don't offer insight into why they're doing it, or what they're likely to do next.
+
+An example of a simple metric is a net promoter score or NPS, which is a score that measures the willingness of customers to recommend a company's products or services to others.
+
+These metrics are often simply numbers within a KPI.
+
+They can help track performance and progress, but have limited standalone meaning without the context provided by the larger KPI's goals and objectives.
+
+A KPI is only as valuable as the action it inspires.
+
+To be useful, a KPI must masquerade as a form of communication.
+
+It must communicate, succinct, clear and relevant information which is likely to be understood and acted upon.
+
+Choosing pertinent, robust KPIs requires an organization to fully understand its objectives, how it plans to achieve them, and who can act on this information.
+
+Getting to this point is a process that should incorporate feedback fromvindividuals in key roles across the organization,vas well as from managers and leaders.
+
+A meaningful set of KPIs encapsulates what's truly important about you company's performance, and should be linked to the economic engine of the organization and to its business model.
+
+Once an organization has robust KPIs in place, it will then be better equipped to monitor and make improvements to what really matters to organizational growth and success.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
