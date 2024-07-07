@@ -313,10 +313,147 @@ Whether you're selecting micro or macro KPIs, it can help to ask questions like 
 
 Skipping these vital steps can be costly in the long run, clouding decisions related to achieving the ideal state for the business.
 
-Together, all four steps contribute to creating a strong base of indicators that will provide insight into both the currentand future states in order to drive the business forward.
+Together, all four steps contribute to creating a strong base of indicators that will provide insight into both the current and future states in order to drive the business forward.
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Job Aid: Selecting Key Performance Indicators
+-----------------------------------------------
+
+* Job Aid: Selecting Key Performance Indicators
+-----------------------------------------------
+* Purpose: Use this job aid to review the steps for selecting appropriate key performance indicators.
+----------
+
+Key performance indicators (KPIs) are indispensable for measuring the success or failure of business activities. To select appropriate KPIs for your organization, you should follow four 
+key steps.
+
+* Step 1: Define your organization's goals
+------------------------------------------
+Some questions to ask when defining your organization's goals might include
+
+	. What will maximize my department's productivity? **** GAZPROM PROJECT **** AT THE MOMENT THE IMPROVEMENT IN THE COMMUNICATION BETWEEN THE MEMBERS OF THE TEAM.
+
+	. What will enable us to grow this segment of the market by more than 10%? **** GAZPROM PROJECT **** IN THE CASE OF OUR DEVELOPMENT TEAM, THE INCREASE OF PRODUCTIVITY WOULD BE
+	INCREASED IF THE DEVELOPERS COULD PUT A LITTLE BIT MORE EFFOR IN ACCOMPLISHING THE DEADLINES.
+
+	. What will enable us to increase our customer satisfaction scores? **** GAZPROM PROJECT **** DELIVERING WORKING CODE FASTER.
+
+* Step 2: Define your organization's objectives
+----------------------------------------------- 
+When defining objectives, it's important to ensure that they're SMART:
+
+	. Specific – Is your objective specific?
+	  -
+
+	. Measurable – Can you measure progress toward the goal?
+	  -
+
+	. Attainable – Is the goal realistically attainable?
+	  -
+
+	. Relevant – How relevant is the goal to your organization?
+	  -
+
+	. Timely – What is the time frame for achieving this goal?
+	  -
+
+* Step 3: Determine how to reach the objectives
+-----------------------------------------------
+Before choosing a strategy, consider customers' perceptions and your organization's overall marketing performance. Ask where the gaps are and how you can strategically "show up in the 
+right place at the right time" to improve customers' perceptions of your brand and boost marketing performance.
+
+* Step 4: Choose key performance indicators
+-------------------------------------------
+Once an organization's goals and objectives have been clearly defined and an approach for achieving them has been determined, it's time to select KPIs for measuring relevant aspects of 
+performance.
+
+Questions to ask when defining KPIs include
+
+**** GAZPROM PROJECT ****
+
+	. What is your desired outcome? --> TO DELIVER WORKING CODE FASTER
+
+	. Why does this outcome matter? --> BECAUSE WE HAVE AN OBLIGATION TO BUILD THIS FOR GAZPROM
+
+	. How are you going to measure progress? --> WITH TRELLO BOARD, AND SPRINT VELOCITY
+
+	. How can you influence the outcome? --> ASKING THE DEVELOPERS TO PUT A LITTLE BIT MORE EFFORT AND MATCH THE DEADLINES
+
+	. Who is responsible for the business outcome? --> THE MANAGER
+
+	. How will you know you've achieved your outcome? --> WITH SEEING AND INTERACTING WITH GOOD WORKING SOFTWARE
+
+	. How often will you review progress toward the outcome? --> EVERY DAY
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Defining Criteria for Performance Indicators
+----------------------------------------------
+The types of KPIs an organization puts in place will vary depending on its critical success factors, industry, products, or services, and business and operational strategies.
+
+In any case, KPIs must be clearly identified, achievable, and quantifiable within specified parameters in order to be useful.
+
+When deciding on what KPIs to use, a company must clearly and accurately define its critical success factors first, and then identify the KPIs that most accurately and directly tie to them.
+
+Again, both the critical success factors and KPIs must be clearly defined and agreed upon by stakeholders and ranked in order of importance to the overall business strategy and goals.
+**** GAZPROM PROJECT **** WE NEED TO IMPROVE THE COMMUNICATION WITH THE DIRECTORS OF THE COMPANY IN THIS POINT AND DEFINE CLEAR KPIS.
+
+Once a KPI has been chosen, the business must define the elements of that performance measure.
+
+For example, suppose ROI is chosen. ROI is typically designated as income divided by investment. Income is a broad term and could be defined as operating income, net income, or some other 
+measure of income.
+
+Investment could be defined as total assets, total assets minus working capital, or some other measure of investment.
+
+In order to be clear, each element must be specifically defined. It's also vital to clarify when and how a KPI is to be measured.
+
+Otherwise, factors like using different calculation methods, different transfer prices between units, and different dates of measurement may skew the results.
+
+Ambiguity about definitions and methods can lead to confused performance measures and must be eliminated, or at the least, minimized for the KPI to be effective.
+**** GAZPROM PROJECT **** OBLIGATORY FOR THIS WEEK: WE NEED TO ELIMINATE ANY AMBIGUITY.
+
+Apart from defining performance measures clearly, it's important to distinguish company level from business unit level performance measures.
+**** GAZPROM PROJECT **** OUR UNIT LEVEL HERE IS OUR DEVELOPMENT TEAM.
+
+Should a measure like ROIC, Return On Invested Capital, refer to the ROIC of a piece of equipment, a manager's division, or the ROIC of the entire organization.
+
+This choice depends partly on the extent to which a company's different units interact in carrying out its strategies.
+
+In decentralized organizations, where individual units have a high levelof autonomy, a focus on business unit level measure might be appropriate.
+
+In more centralized organizations, with frequent communication and crossover between units, company level measures make more sense.
+
+A final way to define a performance measurement system is to establish incentive and reward systems that link closely to the selected performance measures.
+
+These help motivate and guide managers, their units, and their direct reports.
+
+Designing effective incentives and rewards, takes careful consideration. For example, if a company places a cap on an annual bonus amount, employees might significantly reduce their 
+performance, once they reach that cap.
+
+They might even consider holding back cost-saving ideas or delaying adding clients until the next bonus period begins, which could have a negative impact on company performance.
+
+Also, consider to what extent a reward system should be based on a predetermined formula.
+
+For example, it may be easy to reward units based on a seemingly objective measure like profitability.
+
+However, profits or losses can be highly contingent on external factors and might not reflect the hard work or circumstances of certain units.
+
+In a case like this, rewarding profitability alone isn't fair, and a more subjective approach might be necessary.
+
+There is no clear cut right or wrong answer to incentive issues, but it's important to take the pros and cons, and their unintended effects into account when refining KPIs.
+
+Regardless of what a specific organization it chooses to measure, and regardless of the specific KPIs it puts in place, those performance measurements must be clearly and unambiguously 
+designed.
+
+Measuring performance fully and accurately requires a good deal of thought, planning and refining.
+
+That done, an organization can be confident,it will get a clear picture of how it's performing.
+
+
 
 
 
